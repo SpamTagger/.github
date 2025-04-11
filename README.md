@@ -1,0 +1,2 @@
+# .github
+SpamTagger Organization
