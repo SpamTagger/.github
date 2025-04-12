@@ -1,4 +1,4 @@
-# 📨 Free and open source spam filtering tools 📨
+# 📨 Free and Open Source Spam Filtering Tools 📨
 
 ## 🚧 Continued MailCleaner® Development 🚧
 
