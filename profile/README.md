@@ -10,9 +10,9 @@ No significant new features are expected for SpamTagger Plus after the Debian mi
 
 ## ✨ A New, Lighter-Weight Spam Filtering Solution ✨
 
-The reason that the MailCleaner® for is called "SpamTagger Plus" is because the eventual goal is to develope a lighter-weight antispam gateway software simply called SpamTagger. The "Plus" references additional non-essential features offered by MailCleaner® which will be dropped for SpamTagger.
+The reason that the MailCleaner® fork is called "SpamTagger Plus" is because the eventual goal is to develope a lighter-weight antispam gateway software simply called "SpamTagger". The "Plus" references additional non-essential features offered by MailCleaner® which will be dropped from SpamTagger.
 
-SpamTagger will draw much of it's inspiration from MailCleaner® and should provide the ability to have more active development on features focused on increasing spam filtering quality with fewer resources. See the [placeholder repository](https://github.com/SpamTagger/SpamTagger) for more details on what SpamTagger seeks to accomplish.
+The new SpamTagger solution will draw much of it's inspiration from MailCleaner® and should provide the ability to have more active development on features focused on increasing spam filtering quality while requiring fewer development resources. See the [placeholder repository](https://github.com/SpamTagger/SpamTagger) for more details on what SpamTagger seeks to accomplish.
 
 ## 🧰 Open Anti-Spam Tools 🧰
 
@@ -42,6 +42,6 @@ The Wiki tab for each projects will serve as the official documentation for each
 
 ### 👩‍💻 Contribute Code 👨‍💻
 
-If you have intermediate level knowledge of programming (and generally a passing knowledge of Perl), you can take a look at Issues across our various repositories to find something you feel capable of fixing. Just go for it, we'll be happy to provide help!
+If you have intermediate knowledge of programming (and generally a passing knowledge of Perl), you can take a look at Issues across our various repositories to find something you feel capable of fixing. Just go for it! We'll be happy to provide help!
 
-If there is a new feature that you would like to see in any project, you are encouraged to first discuss with the community to ensure that you work in the right direction before wasting any time. When you have a good idea of what you want to contribute, please open an Issue with a `[Feature]` tag in the subject to state your goals and track your progress. You can then open a Pull Request and mention the Issue when your work is ready for review.
+If there is a new feature that you would like to see in any project, you are encouraged to first discuss with the community to ensure that you work in the right direction before wasting any time. When you have a good idea of what you want to contribute, please open an Issue with a `[Feature]` tag in the subject to state your goals and track your progress. You can then open a Pull Request and mention the Issue number when your work is ready for review.
