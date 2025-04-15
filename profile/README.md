@@ -2,17 +2,18 @@
 
 ## 🚧 Continued MailCleaner® Development 🚧
 
-The SpamTagger project is being led by the former head of development for the MailCleaner® antispam gateway. Development of that project has been discontinued and now [SpamTagger Plus](https://github.com/SpamTagger/SpamTagger-Plus) seeks to continue development as a fork. The goal of SpamTagger Plus will be to remain compatible with MailCleaner®, while modernizing and fixing bugs.
+The SpamTagger project is being led by the former head of development for the MailCleaner® antispam gateway. Development of that project has been discontinued by Alinto and so we will attempt to resume support as an entirely community-maintained project. It is still unclear whether this will be possible within the MailCleaner organization, or if a fork will need to be operated by the SpamTagger organization. We will seek to maintain compatibility with MailCleaner®, while modernizing and fixing bugs.
 
 The primary task at this time is to complete a migration to a new Debian base. The current intention is to target Debian Trixie, which should become the stable release in summer 2025. In the meantime, bug fixes will continue to be merged to the main branch.
 
-No significant new features are expected for SpamTagger Plus after the Debian migration, except where they can be easily ported from the core SpamTagger project. We would like to keep SpamTagger Plus as stable as possible for users who just want it to keep working as is, but additional contributions from the community will certainly be considered.
+No significant new features are expected for MailCleaner after the Debian migration, except where they can be easily ported from the core SpamTagger project. We would like to keep it as stable as possible for users who just want it to keep working as is, but additional contributions from the community will certainly be considered.
 
 ## ✨ A New, Lighter-Weight Spam Filtering Solution ✨
 
-The reason that the MailCleaner® fork is called "SpamTagger Plus" is because the eventual goal is to develope a lighter-weight antispam gateway software simply called "SpamTagger". The "Plus" references additional non-essential features offered by MailCleaner® which will be dropped from SpamTagger.
+<!--The reason that the MailCleaner® fork is called "SpamTagger Plus" is because the eventual goal is to develope a lighter-weight antispam gateway software simply called "SpamTagger". The "Plus" references additional non-essential features offered by MailCleaner® which will be dropped from SpamTagger.
 
-The new SpamTagger solution will draw much of it's inspiration from MailCleaner® and should provide the ability to have more active development on features focused on increasing spam filtering quality while requiring fewer development resources. See the [placeholder repository](https://github.com/SpamTagger/SpamTagger) for more details on what SpamTagger seeks to accomplish.
+The -->
+A new SpamTagger solution will draw much of it's inspiration from MailCleaner® and should provide the ability to have more active development on features focused on increasing spam filtering quality while requiring fewer development resources. See the [placeholder repository](https://github.com/SpamTagger/SpamTagger) for more details on what SpamTagger seeks to accomplish.
 
 ## 🧰 Open Anti-Spam Tools 🧰
 
