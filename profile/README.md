@@ -4,13 +4,13 @@
 
 The SpamTagger project is being led by the former head of development for the MailCleaner® antispam gateway. Development of that project has been discontinued by Alinto and so we will attempt to resume support as an entirely community-maintained project.
 
-The official [MailCleaner® organization](https://github.com/MailCleaner) is still controlled by Alinto and all repositories are archived with no intention to be revived, so a fork is necessary to continue this work. This work is being done in the [SpamTagger Plus](https://github.com/SpamTagger/SpamTagger-Plus) repository.
+The official MailCleaner organization is still controlled by Alinto and all repositories are archived with no intention to be revived, so a fork is necessary to continue this work. This work is being done in the [SpamTagger Plus](https://github.com/SpamTagger/SpamTagger-Plus) repository.
 
 SpamTagger Plus will seek to maintain compatibility with MailCleaner® configurations (so that migrations should remain possible) but you CANNOT simply migrate directly to SpamTagger Plus at this time. The SpamTagger Plus repository has diverged in order to support newer dependencies which are not supported by current MailCleaner® VMs.
 
-The state of the SpamTagger Plus repository is currently quite far from being usable. The primary task at this time is to complete a migration to a newer operating system base. The current efforts are to target a Debian Trixie base until all services appear to be stable running on top of modern dependencies. Research is also being done to possibly target a container-based distribution model in order to simplify updates and OS migrations going forward.
+The state of the SpamTagger Plus repository is currently quite far from being usable. The primary task at this time is to complete a migration to a newer operating system base. In order to simplify updates, increase stability, broaden the available installation targets and improve build infrastructure, we are [changing to a bootable container system](https://github.com/SpamTagger/SpamTagger-Bootc) based on CentOS Stream 10. Aside from this, some additional work is still necessary to bring the application code up to date.
 
-No significant new features are expected for MailCleaner® after the OS migration, except where they can be easily ported from the core SpamTagger project. These should largely be features related to filtering quality only, since the SpamTagger project will have no need for GUI, user management, and other more superfluous features. We would like to keep it as stable as possible for users who just want it to keep working as is, but additional contributions from the community will certainly be considered.
+No significant new features are expected for SpamTagger Plus after the OS migration, except where they can be easily ported from the core SpamTagger project. These should largely be features related to filtering quality only, since the SpamTagger project will have no need for GUI, user management, and other more superfluous features. We would like to keep it as stable as possible for users who just want it to keep working as is, but additional contributions from the community will certainly be considered.
 
 ## ✨ A New, Lighter-Weight Spam Filtering Solution ✨
 
