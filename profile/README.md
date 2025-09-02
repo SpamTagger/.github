@@ -2,21 +2,21 @@
 
 ## 🚧 Continued MailCleaner® Development 🚧
 
-The SpamTagger project is being led by the former head of development for the MailCleaner® antispam gateway. Development of that project has been discontinued by Alinto and so we will attempt to resume support as an entirely community-maintained project.
+The SpamTagger project is being led by the former head of development for the MailCleaner® antispam gateway.
 
-The official MailCleaner organization is still controlled by Alinto and all repositories are archived with no intention to be revived, so a fork is necessary to continue this work. This work is being done in the [SpamTagger Plus](https://github.com/SpamTagger/SpamTagger-Plus) repository.
+The official MailCleaner® GitHub organization is still controlled by Alinto and all repositories are archived with no intention to be revived. [SpamTagger Plus](https://github.com/SpamTagger/SpamTagger-Plus) is a fork to revive MailCleaner® as an entirely free and open source project.
 
-SpamTagger Plus will seek to maintain compatibility with MailCleaner® configurations (so that migrations should remain possible) but you CANNOT simply migrate directly to SpamTagger Plus at this time. The SpamTagger Plus repository has diverged in order to support newer dependencies which are not supported by current MailCleaner® VMs.
+An initial release will be made available after significant upgrades are complete while maintaining compatibility with MailCleaner® configurations (so that migrations should remain possible).
 
-The state of the SpamTagger Plus repository is currently quite far from being usable. The primary task at this time is to complete a migration to a newer operating system base. In order to simplify updates, increase stability, broaden the available installation targets and improve build infrastructure, we are [changing to a bootable container system](https://github.com/SpamTagger/SpamTagger-Bootc) based on CentOS Stream 10. Aside from this, some additional work is still necessary to bring the application code up to date.
+SpamTagger Plus is currently quite far from being usable for production mail filtering. The first release will be [changing to a bootable container system](https://github.com/SpamTagger/SpamTagger-Bootc) based on CentOS Stream 10 [for the reasons discussed here](https://github.com/orgs/SpamTagger/discussions/3). Aside from this, additional work is still necessary to bring the application code up to date.
 
-No significant new features are expected for SpamTagger Plus after the OS migration, except where they can be easily ported from the core SpamTagger project. These should largely be features related to filtering quality only, since the SpamTagger project will have no need for GUI, user management, and other more superfluous features. We would like to keep it as stable as possible for users who just want it to keep working as is, but additional contributions from the community will certainly be considered.
+The pace of development for SpamTagger Plus is expected to be quite slow after the first release, as compatibility with MailCleaner® and stability are the main goals. Some features may be ported from the core SpamTagger project where it is easy and makes sense. Additional contributions from the community will certainly be considered.
 
 ## ✨ A New, Lighter-Weight Spam Filtering Solution ✨
 
-The reason that the MailCleaner® fork is called "SpamTagger Plus" is because the eventual goal is to develop a lighter-weight antispam gateway software simply called "SpamTagger". The "Plus" references additional non-essential features offered by MailCleaner® which will be dropped from SpamTagger.
+The reason that the MailCleaner® fork is called "SpamTagger Plus" is because the eventual goal is to develop a lighter-weight antispam gateway software simply called "[SpamTagger](https://github.com/SpamTagger/SpamTagger)". The "Plus" references additional non-essential features offered by MailCleaner® and SpamTagger Plus which will be dropped from SpamTagger.
 
-The new SpamTagger project will draw much of it's inspiration from MailCleaner® and should provide the ability to have more active development on features focused on increasing spam filtering quality with fewer development resources being spent on features that are not essential to the core purpose of filtering spam. See the [placeholder repository](https://github.com/SpamTagger/SpamTagger) for more details on what SpamTagger seeks to accomplish.
+SpamTagger will draw significantly from SpamTagger Plus, but will provide the ability to have more active development on features focused on increasing spam filtering quality with fewer overall development resources.
 
 ## 🧰 Open Anti-Spam Tools 🧰
 
