@@ -1,5 +1,9 @@
 # 📨 Free and Open Source Spam Filtering Tools 📨
 
+## ⚠️ Attention needed to fix ClamAV on existing MailCleaner® appliances ⚠️
+
+If you have an existing MailCleaner appliance and have noticed that the ClamAV service is no longer starting, please see [this discussion thread](https://github.com/SpamTagger/SpamTagger-Plus/discussions/59). Please follow [this repository](https://github.com/SpamTagger/SpamTagger-Plus) for additional discussions related to ongoing support of MailCleaner®.
+
 ## 🚧 Continued MailCleaner® Development 🚧
 
 The SpamTagger project is being led by the former head of development for the MailCleaner® antispam gateway.
