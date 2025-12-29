@@ -1,8 +1,8 @@
 # 📨 Free and Open Source Spam Filtering Tools 📨
 
-## ⚠️ Attention needed to fix ClamAV on existing MailCleaner® appliances ⚠️
+## ⚠️ Attention: Existing MailCleaner® Enterprise Edition Users ⚠️
 
-If you have an existing MailCleaner appliance and have noticed that the ClamAV service is no longer starting, please see [this discussion thread](https://github.com/SpamTagger/SpamTagger-Plus/discussions/59). Please follow [this repository](https://github.com/SpamTagger/SpamTagger-Plus) for additional discussions related to ongoing support of MailCleaner®.
+Alinto are no longer renewing support contracts. At the end of your contract you can expect to have your machines forcibly unregistred. This process can have some undesirable consequences. Please see this [this comment](https://github.com/orgs/SpamTagger/discussions/1#discussioncomment-15008718) for a description of what you can expect and for tips to limit most of the negative impacts by proactively unregistering your own machine more gracefully.
 
 ## 🚧 Continued MailCleaner® Development 🚧
 
