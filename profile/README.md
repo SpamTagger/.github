@@ -1,5 +1,7 @@
 # 📨 Free and Open Source Spam Filtering Tools 📨
 
+## 👨‍💻 Open Source Roots 👩‍💻
+
 SpamTagger is an organization founded by the former head of development for the former MailCleaner® antispam gateway. We seek to take the open source roots of MailCleaner® and extend it to all aspects of the project code, infrastructure and build tools.
 
 ## 🚧 Continued MailCleaner® Development 🚧
