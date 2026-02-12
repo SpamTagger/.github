@@ -1,4 +1,4 @@
-![Mail Filtering Freedom](/images/square-initials-envelope.png "SpamTagger projects are open source and flexible.<ul><li>Host anywhere, in front of any email service</li><li>Read, modify and contribute code</li><li>Be part of a worldwide network to improve filtering quality</li><ul><button href="#About">More About the SpamTagger Organization</button>")
+![Mail Filtering Freedom](/images/square-initials-envelope.png "SpamTagger projects are open source and flexible.<ul><li>Host anywhere, in front of any email service</li><li>Read, modify and contribute code</li><li>Be part of a worldwide network to improve filtering quality</li><ul><a href='#About'><button>More About the SpamTagger Organization</button></a>")
 
 ## <span style="color: red">⚠️ Attention: Existing MailCleaner® Enterprise Edition Users ⚠️</span>
 
