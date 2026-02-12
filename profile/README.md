@@ -4,7 +4,7 @@
 
 SpamTagger is an organization founded by the former head of development for the former MailCleaner® antispam gateway. We seek to take the open source roots of MailCleaner® and extend it to all aspects of the project code, infrastructure and build tools.
 
-## 🚧 Continued MailCleaner® Development 🚧
+## 🚧 MailCleaner® Successor 🚧
 
 MailCleaner® has been discontinued. [SpamTagger](https://github.com/SpamTagger/SpamTagger) is a fork to revive MailCleaner® as an entirely free and open source project.
 
@@ -12,7 +12,7 @@ An initial release will be made available after significant upgrades are complet
 
 The pace of development for SpamTagger is expected to slow down after the first release with MailCleaner® and stability as the main goals. Some features may be ported from the SpamTagger Core project where it is easy and makes sense. Additional contributions from the community will be considered.
 
-## ✨ A New, Lighter-Weight Spam Filtering Solution ✨
+## ✨ New Embeddable Filter ✨
 
 Eventually, a new fork called [SpamTagger Core](https://github.com/SpamTagger/SpamTagger-Core) will be created which will seek to provide a simplified filtering tool, inspired by SpamTagger but without compatibility guarantees.
 
@@ -28,6 +28,6 @@ This will include community sourced SpamC rules, tools for hybrid local and shar
 
 The best efforts will be made to ensure that these tools work equally well in non-SpamTagger filtering environments.
 
-## 🌐 Community Engagement, Discussion and Contributions 🌐
+## 🌐 Community Engagement 🌐
 
 Your ideas, concerns and assistance are welcome! Each major project, as well as the [GitHub organization](https://github.com/SpamTagger) itself, have open Discussions, Wikis and Issues to accept feedback and contributions from users.
